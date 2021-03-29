@@ -1,0 +1,34 @@
+The Open Source Way, a new community of practice, today announced the debut of their new guidebook, "The Open Source Way 2.0—A guidebook for community management best practices". This latest community release includes a number of notable new elements, including:
+
+* Expanded format has chapters written by one to several authors around specific topic areas.
+* The project's biases for how we believe projects best creat, grow, and sustain are reflected in the table of contents and lifecycle across chapters.
+* Chapters stand-alone while forming a cohesive story, so the reader can enter the material and proceed however they want. 
+* New content around governance, inclusivity, accessibility, and project members' safety and well-being show the evolution in formal community management toward holistic management.
+
+
+    Developed by a global community, Project X is a [detailed paragraph of what the project is, what it does, and any other pertinent information should be included here.]
+
+    Notable enhancements to Project X x.y include:
+
+    [Detailed paragraph describing a first major feature]
+
+    [Detailed paragraph describing a second major feature]
+
+    [Detailed paragraph describing a third major feature]
+
+    A complete list of Project X x.y features is available on the Project X community release announcement pae [URL]. Project X x.y [detailed description of a two or three additional features].
+
+    [If possible, add a quote from a prominent community member or technical lead about the new release here.]
+
+    Additional Resources
+
+        Read more about the Project X x.y release highlights [URL]
+
+        Get more Project X updates on Twitter [URL]
+
+        Read more about Project X community events [URL]
+
+    About Project X
+
+    Project X is [a very detailed description of what the project is and what it can do].
+
