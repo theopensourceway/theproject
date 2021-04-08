@@ -1,34 +1,40 @@
-The Open Source Way, a new community of practice, today announced the debut of their new guidebook, "The Open Source Way 2.0—A guidebook for community management best practices". This latest community release includes a number of notable new elements, including:
+The Open Source Way community [1] is pleased to announce the latest release of the Open Source Way guidebook.
 
+Written by practitioners from several organizations, the Open Source Way guidebook collects best practices for catalyzing, supporting, managing, and sustaining open source communities. This release (v 2.0) is under the CC BY-SA 4.0 license.
+
+The guidebook is now available in various formats at the following locations:
+
+HTML: https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html
+PDF: https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.pdf
+
+The Open Source Way is debuting as an upstream community of open source practitioners who cultivate and curate best practices around community management. The project is always seeking contributions. For more details—and to get involved—please visit https://github.com/theopensourceway/.
+
+[1] https://www.theopensourceway.org/
+
+Information About 2.0 Version
+=============================
+
+The Open Source Way today announced the debut of their new guidebook, "The Open Source Way 2.0—A guidebook for community management best practices". This latest community release features a number of notable new elements, including:
+
+* Guidebook sections cover getting started, attracting users, guiding participants, and growing contributors.
+* From checklists to the flow of the chapters, there is a prescribed path built into the guidebook: "Focus on growing your community of users while keeping the barriers to use, participate, and contribute as low as possible."
+* New content around governance, inclusivity, accessibility, and project members' safety and well-being show the evolution in formal community management to consider matters of diversity, equity, and inclusion in all places and facets of the project.
 * Expanded format has chapters written by one to several authors around specific topic areas.
-* The project's biases for how we believe projects best creat, grow, and sustain are reflected in the table of contents and lifecycle across chapters.
-* Chapters stand-alone while forming a cohesive story, so the reader can enter the material and proceed however they want. 
-* New content around governance, inclusivity, accessibility, and project members' safety and well-being show the evolution in formal community management toward holistic management.
+* Chapters can be read and understood by themselves, and also form a cohesive story, so the reader can enter the material and proceed however they want. 
 
+Beyond the guidebook, the Open Source Way project is a community of practice for anyone interested in open source community management. We focus not just on what-is community management and how to do it, but also explore why we consider certain practices “best.” We're a diverse group of practitioners who cultivate and curate best practices for creating, growing, and sustaining innovative open source communities. Our recently updated and published 2.0 version of The Open Source Way, our guidebook of best practices, was created as a fully open collaboration using our own recommendations in action.
 
-    Developed by a global community, Project X is a [detailed paragraph of what the project is, what it does, and any other pertinent information should be included here.]
+"The 2.0 version of this guidebook is the culmination of a decade of discussions sparked by the 1.0 release," said Karsten Wade, primary author of the 2011 debut and lead for the 2.0 update. "Just as open source development has evolved, we wanted to evolve the way we presented best practices around managing communities of contributors. Part of that is the vision of a community of practitioners of all levels, working to understand and improve on this important work with and beyond just one guidebook. I'm thrilled with anticipation of how this community is going to expand, with membership and activities over the next decade."
 
-    Notable enhancements to Project X x.y include:
+Additional Resources
+====================
 
-    [Detailed paragraph describing a first major feature]
+Code of Conduct:  https://theopensourceway.org/Code_of_Conduct.html
 
-    [Detailed paragraph describing a second major feature]
+Project discussion forum:  https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html#_contributors_2
 
-    [Detailed paragraph describing a third major feature]
+Guidebook GitHub repo:  https://github.com/theopensourceway/guidebook
 
-    A complete list of Project X x.y features is available on the Project X community release announcement pae [URL]. Project X x.y [detailed description of a two or three additional features].
+Guidebook README:  https://github.com/theopensourceway/guidebook/blob/main/README.md
 
-    [If possible, add a quote from a prominent community member or technical lead about the new release here.]
-
-    Additional Resources
-
-        Read more about the Project X x.y release highlights [URL]
-
-        Get more Project X updates on Twitter [URL]
-
-        Read more about Project X community events [URL]
-
-    About Project X
-
-    Project X is [a very detailed description of what the project is and what it can do].
-
+Contributing to guidebook:  https://github.com/theopensourceway/guidebook/blob/main/CONTRIBUTING.md
