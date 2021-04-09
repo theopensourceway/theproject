@@ -20,7 +20,7 @@ This community release of The Open Source Way, "a guidebook for community manage
 * New sections. Guidebook material is now grouped into chapters addressing topics like "getting started," "attracting users," "guiding participants," and "growing contributors."
 * Improved structure. The guidebook now offers a prescribed path for readers, and includes various checklists to enhance "focus on growing your community of users while keeping the barriers to use, participate, and contribute as low as possible."
 * New format. Chapters are now collaboratively written to feature a wider range of experiences.
-* Modularity. Chapters can now stand on their as independent guides, but form a cohesive story when read together, so readers can access the material and proceed however they wish.
+* Modularity. Chapters can now stand on their own as independent guides but form a cohesive story when read together, so readers can access the material and proceed however they wish.
 
 Beyond the guidebook, the Open Source Way project is a community of practice for anyone interested in open source community management. We don't just explore what community management is and how to do it, but also discuss why we consider certain practices "best." We're a diverse group of practitioners who cultivate and curate best practices for creating, growing, and sustaining innovative open source communities. Our recently updated and published 2.0 version of The Open Source Way, our guidebook of best practices, was created as a fully open collaboration using our own recommendations in action.
 
